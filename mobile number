@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int num;
+printf("Enter your mobile number");
+scanf("%d",&num);
+printf("\nYour mobile number:%d",num);
+}
